@@ -42,16 +42,16 @@ body{
     animation-delay: .8s;.
 }
 .greetings > span:nth-child(6){
-    animation-delay: .10s ;
+    animation-delay: .2s ;
 }
 .greetings > span:nth-child(7){
-    animation-delay: 10.2s ;
+    animation-delay: .4s ;
 }
 .greetings > span:nth-child(8){
-    animation-delay: 10.4s;
+    animation-delay: .6s;
 }
 .greetings > span:nth-child(9){
-    animation-delay: 10.6s;
+    animation-delay: .8s;
 }
 
 .description{
